@@ -21,9 +21,9 @@ const Navbar = () => {
 
   const menuItems = [
     { key: "home", label: "Home" },
-    { key: "about", label: "About Us" },
-    { key: "contact", label: "Contact Us" },
-    { key: "enquiry", label: "Enquiry" },
+    { key: "about", label: "About  Us" },
+    { key: "contact", label: "Contact  Us" },
+    { key: "careers", label: "Careers" },
   ];
 
   return (

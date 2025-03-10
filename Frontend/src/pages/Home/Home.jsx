@@ -1,6 +1,6 @@
 import React from "react";
 import "../style.css";
-import bgvideo from "../../assets/Media/Video/test.mp4";
+import bgvideo from "../../assets/Media/Video/testtwo.mp4";
 import truck from "../../assets/Media/Image/truck.svg";
 const Home = () => {
   return (
